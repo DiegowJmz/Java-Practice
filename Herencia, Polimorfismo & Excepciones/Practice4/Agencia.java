@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-//Autores: Diego Isaac Jimenez Baroja y Jesus Eduardo PatiÃ±o MartÃ­nez
+//Autor: Diego Isaac Jimenez Baroja
 
 public class Agencia {
 
