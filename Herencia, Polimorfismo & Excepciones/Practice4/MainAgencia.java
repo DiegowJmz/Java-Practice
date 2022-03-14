@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 import java.util.InputMismatchException;
 /*
-Autores: Diego Isaac Jimenez Baroja y Jesus Eduardo PatiÃ±o MartÃ­nez
+Autor: Diego Isaac Jimenez Baroja
 Este programa usaremos dos clases, ya que no creo necesario la herencia. Implementaremos
 excepciones para que los valores ingresador por los
 */
