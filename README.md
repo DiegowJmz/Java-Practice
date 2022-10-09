@@ -1,3 +1,3 @@
 # Java-Practice
 
-Son algunos ejercicios realizados durante mi materia de Programacion en la Facultad de Ciencias 
+Aqui encontraran algunos ejercicios hechos en Java, desde algo basico, hasta herencia y excepciones. 
